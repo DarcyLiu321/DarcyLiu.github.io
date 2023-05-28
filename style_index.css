@@ -7,9 +7,19 @@ span {
 h2 {
   color: rgba(255, 0, 0, 0.625);
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-size: 2rem;
+}
 .group1 {
-  color: #fa8c16
+  color: #fa8c16;
 }
 .group2 {
-color: #7cb305;
+  color: #7cb305;
 }
